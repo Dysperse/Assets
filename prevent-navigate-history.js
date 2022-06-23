@@ -34,4 +34,3 @@
         };
     }
 })(window);
-This is in pure 
