@@ -1,5 +1,4 @@
-history.pushState(null, document.title, location.href);
-window.addEventListener('popstate', function (event)
-{
-  history.pushState(null, document.title, location.href);
-});
+history.pushState(null, null, location.href);
+window.onpopstate = function () {
+  history.go(1);
+};
