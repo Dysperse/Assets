@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Speak a Color</title>
+    <script src="https://assets.dysperse.com/hack-club/3/p5.min.js"></script>
+    <script src="https://assets.dysperse.com/hack-club/3/p5.speech.js"></script>
+  </head>
+  <body>
+    <!-- Delete this line of code, and start typing! -->
+  </body>
+</html>
