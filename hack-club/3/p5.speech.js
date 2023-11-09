@@ -364,6 +364,11 @@ todo:
 * support utterance parser for long phrases.
 */
 
+var speech = new p5.SpeechRec('en-US', parseResult)
+speech.continuous = true
+speech.interimResults = false
+
+
 // EOF
 
 
